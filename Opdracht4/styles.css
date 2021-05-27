@@ -1,0 +1,43 @@
+body {
+  background-image: url(Los\ Angeles4.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-blend-mode: lighten;
+  color: white;
+}
+
+h1 {
+  color: gold;
+}
+
+li {
+  color: goldenrod;
+  font-weight: bolder;
+}
+
+a {
+  color: orange;
+  display: block, left;
+}
+
+a:hover {
+  color: lime;
+}
+
+a:visited {
+  color: violet;
+}
+
+article {
+  border: 2px dotted;
+  align-content: center;
+  padding: 40px;
+}
+
+.Bauer {
+  font-weight: bold;
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: greenyellow;
+}
